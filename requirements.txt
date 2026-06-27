@@ -1,0 +1,6 @@
+Pillow>=10.0.0
+pillow-avif-plugin>=1.4.0
+customtkinter>=5.2.0
+
+# Only needed if you're building the standalone .exe yourself (see BUILD.md)
+pyinstaller>=6.0.0
