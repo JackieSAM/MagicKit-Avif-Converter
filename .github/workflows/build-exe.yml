@@ -27,4 +27,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: MagicKit-windows
-          path: dist/MagicKit/
+          path: dist/MagicKit.exe
